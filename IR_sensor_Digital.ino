@@ -10,4 +10,3 @@ void loop() {
   delay(1000);
 
 }
-© 2021 GitHub, Inc.
